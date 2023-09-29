@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-29T19:51:44" hostname="RAISA" time="0.017">
+  <properties/>
+  <testcase name="testSumOfZeroThrowsException()" classname="SumCalculatorTest" time="0.014"/>
+  <testcase name="testSumOfOneReturnsOne()" classname="SumCalculatorTest" time="0.001"/>
+  <testcase name="testSumOfThreeReturnsSix()" classname="SumCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
